@@ -1,21 +1,33 @@
-          Title 
+ Hi Everyone,
+ I have created a report on HealthCare data using #powerbidesktop
+ Here i converted raw data into interactive visuals
+ 
+            Title 
 "HEALTHCARE ANALYSIS WITH INSIGHTS"
 
-In this project, i explored a dataset containing information about health and care and attempted to derive insights in a readable format.
-
-
-        Technologies used
-            DataSet        
-Huge number of data was extracted in Excel sheets.
-        Analysing Tool  
+            Dataset:      
+Huge number of data extracted in Excel sheets.
+          Analysing Tool  
 Power BI Desktop was used for finding statistical report.
 
+          Steps covered:
+1.The data collected in excel file was imported on BI Desktop.
+2.Forecasting/Prediction in Power BI.
+3.Derived statistical insights using various tools in the form of
+  pie-chart, Donut chart, Stacked-column chart and Map.
+4.Inter connected Multiple feature Dashboard.
+5.Theme effect in Dashboard Visuals.
 
-The data collected was imported on BI Desktop and accurate findings were made in the form of charts and graphs,
-and useful report was derived. 
+         Other information:
+Utilised some DAX functions, interactive charts, Matrix
+and a slicer to filter the data range.
+Analyzed data as visuals as possible.
 
 
-I attempted to analyze the data as Visual as possible.
+Thank you.
+
+
+
 
 
 
